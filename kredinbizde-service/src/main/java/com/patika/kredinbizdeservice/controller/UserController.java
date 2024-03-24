@@ -55,8 +55,6 @@ public class UserController {
     }
 
 
-
-
    /* @Autowired
     public void setUserService(IUserService userService) {
         this.userService = userService;
